@@ -12,7 +12,5 @@ description: > # your text below (remove <br> elements if you don't need line br
   Recent Master of Science graduate from Columbia University's Operations Research program. I am passionate about product, specifically about consumer behavior and measuring impact via data analysis.
   <br><br>
   
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-- jekyll-remote-theme
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
+theme: jekyll-theme-minimal
+google_analytics: G-LY6683ZLYC
