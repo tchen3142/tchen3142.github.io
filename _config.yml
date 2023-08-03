@@ -11,7 +11,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   
   Recent Master of Science graduate from Columbia University's Operations Research program. I am passionate about product, specifically about consumer behavior and measuring impact via data analysis.
   <br><br>
-  #<a href="https://www.linkedin.com/in/tiffanychen8/">View My LinkedIn Profile</a> 
+  # <a href="https://www.linkedin.com/in/tiffanychen8/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
